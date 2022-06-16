@@ -8,11 +8,13 @@
 
 ※ [바킹독 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)에서 많은 형식을 빌려왔습니다.
 
-#
 
- 
+<br>
 
 # 문제 리스트
+### [문제집 링크](https://www.acmicpc.net/workbook/view/11508)
+<br>
+
 ## 실버
 
 문제 | 문제 제목 | 정답 코드 | 풀이 |
@@ -22,7 +24,7 @@
 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | | |
 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) | | |
 
- 
+<br> 
 
 ## 골드 하위
 문제 | 문제 제목 | 정답 코드 | 풀이 |
@@ -46,7 +48,7 @@
 19942 | [다이어트](https://www.acmicpc.net/problem/19942) | | |
 21276 | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | | |
 
- 
+<br>
 
 ## 골드 상위 이상
 문제 | 문제 제목 | 정답 코드 | 풀이 |
