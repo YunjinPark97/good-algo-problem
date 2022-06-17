@@ -29,6 +29,7 @@
 ## 골드 하위
 문제 | 문제 제목 | 정답 코드 | 풀이 |
  :--: | :--: | :--: | :--: |
+1107 | [리모컨](https://www.acmicpc.net/problem/1107) | | |
 1351 | [무한 수열](https://www.acmicpc.net/problem/1351) | | |
 1520 | [내리막길](https://www.acmicpc.net/problem/1520) | | |
 1806 | [부분합](https://www.acmicpc.net/problem/1806) | | |
@@ -42,7 +43,6 @@
 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | | |
 14956 | [Philosopher's Walk](https://www.acmicpc.net/problem/14956) | | |
 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | | |
-17182 | [우주 탐사선](https://www.acmicpc.net/problem/17182) | | |
 17471 | [게리맨더링](https://www.acmicpc.net/problem/17471) | | |
 17779 | [게리맨더링 2](https://www.acmicpc.net/problem/17779) | | |
 19942 | [다이어트](https://www.acmicpc.net/problem/19942) | | |
