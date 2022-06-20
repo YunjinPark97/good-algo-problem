@@ -35,6 +35,7 @@
 1806 | [부분합](https://www.acmicpc.net/problem/1806) |[정답 코드](./solution/medium/1806.java) | |
 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |[정답 코드](./solution/medium/1941.java) |[풀이](https://bleron.tistory.com/154) |
 2011 | [암호코드](https://www.acmicpc.net/problem/2011) |[정답 코드](./solution/medium/2011.java) | |
+2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) |[정답 코드](./solution/medium/2812.java) |[풀이](https://bleron.tistory.com/222) |
 4485 | [녹색 옷 입은 얘가 젤다지?](https://www.acmicpc.net/problem/4485) |[정답 코드](./solution/medium/4485.java) | |
 9084 | [동전](https://www.acmicpc.net/problem/9084) |[정답 코드](./solution/medium/9084.java) | |
 9252 | [LCS 2](https://www.acmicpc.net/problem/9252) |[정답 코드](./solution/medium/9252.java) |[풀이](https://bleron.tistory.com/128) |
