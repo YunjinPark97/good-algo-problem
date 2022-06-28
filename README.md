@@ -56,6 +56,7 @@
  :--: | :--: | :--: | :--: |
 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) |[정답 코드](./solution/hard/1194.java) | |
 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) |[정답 코드](./solution/hard/1300.java) | |
+1422 | [숫자의 신](https://www.acmicpc.net/problem/1422) |[정답 코드](./solution/hard/1422.java) | |
 1799 | [비숍](https://www.acmicpc.net/problem/1799) |[정답 코드](./solution/hard/1799.java) | |
 3179 | [백조의 호수](https://www.acmicpc.net/problem/3179) |[정답 코드](./solution/hard/3179.java) |[풀이](https://bleron.tistory.com/185) |
 5214 | [환승](https://www.acmicpc.net/problem/5214) |[정답 코드](./solution/hard/5214.java) |[풀이](https://bleron.tistory.com/108) |
