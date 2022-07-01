@@ -22,6 +22,7 @@
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) |[정답 코드](./solution/easy/1149.java) | |
 14501 | [퇴사](https://www.acmicpc.net/problem/14501) |[정답 코드](./solution/easy/14501.java) | |
 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) |[정답 코드](./solution/easy/15486.java) | |
+16960 | [스위치와 램프](https://www.acmicpc.net/problem/16960) |[정답 코드](./solution/easy/16960.java) | |
 17478 | [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) |[정답 코드](./solution/easy/17478.java) | |
 
 <br> 
