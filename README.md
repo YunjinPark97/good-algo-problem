@@ -45,6 +45,7 @@
 9084 | [동전](https://www.acmicpc.net/problem/9084) |[정답 코드](./solution/medium/9084.java) | |
 9252 | [LCS 2](https://www.acmicpc.net/problem/9252) |[정답 코드](./solution/medium/9252.java) |[풀이](https://bleron.tistory.com/128) |
 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) |[정답 코드](./solution/medium/9663.java) |[풀이](https://bleron.tistory.com/89) |
+9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) |[정답 코드](./solution/medium/9935.java) | |
 11049 | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) |[정답 코드](./solution/medium/11049.java) | |
 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |[정답 코드](./solution/medium/11559.java) | |
 14956 | [Philosopher's Walk](https://www.acmicpc.net/problem/14956) |[정답 코드](./solution/medium/14956.java) | |
