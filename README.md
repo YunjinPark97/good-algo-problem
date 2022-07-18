@@ -70,6 +70,7 @@
 11003 | [Ignition](https://www.acmicpc.net/problem/11003) |[정답 코드](./solution/hard/11003.java) |[풀이](https://bleron.tistory.com/218) |
 13141 | [최솟값 찾기](https://www.acmicpc.net/problem/13141) |[정답 코드](./solution/hard/13141.java) |[풀이](https://bleron.tistory.com/180) |
 14003 | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) |[정답 코드](./solution/hard/14003.java) | |
+17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) |[정답 코드](./solution/hard/17136.java) |[풀이](https://bleron.tistory.com/266) |
 17825 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) |[정답 코드](./solution/hard/17825.java) |[풀이](https://bleron.tistory.com/130) |
 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) |[정답 코드](./solution/hard/18809.java) |[풀이](https://bleron.tistory.com/158) |
 19236 | [청소년 상어](https://www.acmicpc.net/problem/19236) |[정답 코드](./solution/hard/19236.java) |[풀이](https://bleron.tistory.com/264) |
