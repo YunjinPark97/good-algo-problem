@@ -72,6 +72,8 @@
 14003 | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) |[정답 코드](./solution/hard/14003.java) | |
 17825 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) |[정답 코드](./solution/hard/17825.java) |[풀이](https://bleron.tistory.com/130) |
 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) |[정답 코드](./solution/hard/18809.java) |[풀이](https://bleron.tistory.com/158) |
+19236 | [청소년 상어](https://www.acmicpc.net/problem/19236) |[정답 코드](./solution/hard/19236.java) |[풀이](https://bleron.tistory.com/264) |
+19237 | [어른 상어](https://www.acmicpc.net/problem/19237) |[정답 코드](./solution/hard/19237.java) |[풀이](https://bleron.tistory.com/254) |
 20183 | [골목 대장 호석 - 효율성 2](https://www.acmicpc.net/problem/20183) |[정답 코드](./solution/hard/20183.java) |[풀이](https://bleron.tistory.com/203) |
 20304 | [비밀번호 제작](https://www.acmicpc.net/problem/20304) |[정답 코드](./solution/hard/20304.java) |[풀이](https://bleron.tistory.com/96) |
 23258 | [밤편지](https://www.acmicpc.net/problem/23258) |[정답 코드](./solution/hard/23258.java) |[풀이](https://bleron.tistory.com/219) |
