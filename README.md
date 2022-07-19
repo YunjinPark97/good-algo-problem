@@ -33,6 +33,7 @@
  :--: | :--: | :--: | :--: |
 1107 | [리모컨](https://www.acmicpc.net/problem/1107) |[정답 코드](./solution/medium/1107.java) |[풀이](https://bleron.tistory.com/220) |
 1351 | [무한 수열](https://www.acmicpc.net/problem/1351) |[정답 코드](./solution/medium/1351.java) | |
+1461 | [도서관](https://www.acmicpc.net/problem/1461) |[정답 코드](./solution/medium/1461.java) |[풀이](https://bleron.tistory.com/269) |
 1520 | [내리막길](https://www.acmicpc.net/problem/1520) |[정답 코드](./solution/medium/1520.java) |[풀이](https://bleron.tistory.com/134) |
 1806 | [부분합](https://www.acmicpc.net/problem/1806) |[정답 코드](./solution/medium/1806.java) | |
 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |[정답 코드](./solution/medium/1941.java) |[풀이](https://bleron.tistory.com/154) |
