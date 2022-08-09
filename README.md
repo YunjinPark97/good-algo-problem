@@ -52,6 +52,7 @@
 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |[정답 코드](./solution/medium/11559.java) | |
 14956 | [Philosopher's Walk](https://www.acmicpc.net/problem/14956) |[정답 코드](./solution/medium/14956.java) | |
 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) |[정답 코드](./solution/medium/16236.java) |[풀이](https://bleron.tistory.com/112) |
+16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |[정답 코드](./solution/medium/16928.java) | |
 17471 | [게리맨더링](https://www.acmicpc.net/problem/17471) |[정답 코드](./solution/medium/17471.java) |[풀이](https://bleron.tistory.com/157) |
 17779 | [게리맨더링 2](https://www.acmicpc.net/problem/17779) |[정답 코드](./solution/medium/17779.java) |[풀이](https://bleron.tistory.com/181) |
 19942 | [다이어트](https://www.acmicpc.net/problem/19942) |[정답 코드](./solution/medium/19942.java) | |
