@@ -1,13 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
-	
-	static List<List<Integer>> graph;
-	static int N;
-	static String str;
-	static boolean[] visited;
-	
+public class Main {	
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int N = Integer.parseInt(br.readLine());
