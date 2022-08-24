@@ -2,7 +2,7 @@
 
 개인적으로 풀면서 흥미로웠거나, 완성도가 높거나, 풀이 방법이 인상깊었던 문제를 기록합니다. 차근차근 추가할 예정입니다.
 
-※ 기업 코딩테스트 난이도의 문제들이라 코딩테스트에 도움이 되나, '좋다'의 기준이 '코딩테스트에 많이 도움되는 정도'는 아닙니다.
+※ 추천의 기준이 '코딩테스트에 많이 도움되는 정도'는 아닙니다만, '기본적인 자료구조/알고리즘을 조합하여 푸는 구현량이 많은 문제'가 리스트 내 많이 있습니다. 이런 스타일의 문제는 삼성 및 카카오 등의 회사의 코딩테스트와 결이 맞습니다.
 
 ※ 실전에서 알고리즘 안 알려주니, 의도적으로 무슨 알고리즘인지 적지 않았습니다.
 
@@ -84,4 +84,5 @@
 20183 | [골목 대장 호석 - 효율성 2](https://www.acmicpc.net/problem/20183) |[정답 코드](./solution/hard/20183.java) |[풀이](https://bleron.tistory.com/203) |
 20304 | [비밀번호 제작](https://www.acmicpc.net/problem/20304) |[정답 코드](./solution/hard/20304.java) |[풀이](https://bleron.tistory.com/96) |
 23258 | [밤편지](https://www.acmicpc.net/problem/23258) |[정답 코드](./solution/hard/23258.java) |[풀이](https://bleron.tistory.com/219) |
+25498 | [핸들 뭐로 하지](https://www.acmicpc.net/problem/25498) |[정답 코드](./solution/hard/25498.java) |[풀이](https://upload.acmicpc.net/8ee1f83a-3927-4892-88c2-c1462f16ef3d/) |
 
