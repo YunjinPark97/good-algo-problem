@@ -50,6 +50,7 @@
 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) |[정답 코드](./solution/medium/9935.java) | |
 11049 | [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049) |[정답 코드](./solution/medium/11049.java) | |
 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) |[정답 코드](./solution/medium/11559.java) | |
+13023 | [ABCDE](https://www.acmicpc.net/problem/13023) |[정답 코드](./solution/medium/13023.java) | |
 14956 | [Philosopher's Walk](https://www.acmicpc.net/problem/14956) |[정답 코드](./solution/medium/14956.java) | |
 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) |[정답 코드](./solution/medium/16236.java) |[풀이](https://bleron.tistory.com/112) |
 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) |[정답 코드](./solution/medium/16928.java) | |
