@@ -37,6 +37,7 @@
 1461 | [도서관](https://www.acmicpc.net/problem/1461) |[정답 코드](./solution/medium/1461.java) |[풀이](https://bleron.tistory.com/269) |
 1520 | [내리막길](https://www.acmicpc.net/problem/1520) |[정답 코드](./solution/medium/1520.java) |[풀이](https://bleron.tistory.com/134) |
 1806 | [부분합](https://www.acmicpc.net/problem/1806) |[정답 코드](./solution/medium/1806.java) | |
+1939 | [중량제한](https://www.acmicpc.net/problem/1939) |[정답 코드](./solution/medium/1939.java) |[풀이](https://bleron.tistory.com/314) |
 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) |[정답 코드](./solution/medium/1941.java) |[풀이](https://bleron.tistory.com/154) |
 2011 | [암호코드](https://www.acmicpc.net/problem/2011) |[정답 코드](./solution/medium/2011.java) | |
 2015 | [수들의 합 4](https://www.acmicpc.net/problem/2015) |[정답 코드](./solution/medium/2015.java) |[풀이](https://bleron.tistory.com/238) |
