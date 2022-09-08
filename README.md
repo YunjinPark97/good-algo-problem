@@ -59,6 +59,8 @@
 17779 | [게리맨더링 2](https://www.acmicpc.net/problem/17779) |[정답 코드](./solution/medium/17779.java) |[풀이](https://bleron.tistory.com/181) |
 19942 | [다이어트](https://www.acmicpc.net/problem/19942) |[정답 코드](./solution/medium/19942.java) | |
 21276 | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) |[정답 코드](./solution/medium/21276.java) |[풀이](https://bleron.tistory.com/199) |
+25565 | [딸기와 토마토](https://www.acmicpc.net/problem/25565) |[정답 코드](./solution/medium/25565.java) | |
+
 
 <br>
 
@@ -74,6 +76,7 @@
 3179 | [백조의 호수](https://www.acmicpc.net/problem/3179) |[정답 코드](./solution/hard/3179.java) |[풀이](https://bleron.tistory.com/185) |
 5214 | [환승](https://www.acmicpc.net/problem/5214) |[정답 코드](./solution/hard/5214.java) |[풀이](https://bleron.tistory.com/108) |
 6549 | [히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |[정답 코드](./solution/hard/6549.java) | |
+9202 | [Boggle](https://www.acmicpc.net/problem/11003) |[정답 코드](./solution/hard/9202.java) |[풀이](https://bleron.tistory.com/323) |
 11003 | [Ignition](https://www.acmicpc.net/problem/11003) |[정답 코드](./solution/hard/11003.java) |[풀이](https://bleron.tistory.com/218) |
 13141 | [최솟값 찾기](https://www.acmicpc.net/problem/13141) |[정답 코드](./solution/hard/13141.java) |[풀이](https://bleron.tistory.com/180) |
 14003 | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) |[정답 코드](./solution/hard/14003.java) | |
