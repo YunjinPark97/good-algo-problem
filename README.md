@@ -62,6 +62,7 @@
 19942 | [다이어트](https://www.acmicpc.net/problem/19942) |[정답 코드](./solution/medium/19942.java) | |
 20040 | [사이클 게임](https://www.acmicpc.net/problem/20040) |[정답 코드](./solution/medium/20040.java) | |
 21276 | [계보 복원가 호석](https://www.acmicpc.net/problem/21276) |[정답 코드](./solution/medium/21276.java) |[풀이](https://bleron.tistory.com/199) |
+25543 | [X 만들기](https://www.acmicpc.net/problem/25543) |[정답 코드](./solution/medium/25543.java) |[풀이](https://upload.acmicpc.net/10aea5ac-b900-4ad6-b8fc-326a7b1f7d3a/) |
 25552 | [잔디 예측하기](https://www.acmicpc.net/problem/25552) | |[풀이](https://upload.acmicpc.net/10aea5ac-b900-4ad6-b8fc-326a7b1f7d3a/) |
 25565 | [딸기와 토마토](https://www.acmicpc.net/problem/25565) |[정답 코드](./solution/medium/25565.java) | |
 
